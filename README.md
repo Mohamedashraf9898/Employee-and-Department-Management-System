@@ -11,7 +11,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 * User Interface:
   * Provides a simple and intuitive user interface for performing CRUD operations.
   * Navigation between employee and department management functionalities is straightforward and user-friendly.
-* Technologies Used:
+## Technologies Used:
   * ASP.NET MVC
   * C#
   * Entity Framework (EF) Code-First Approach
